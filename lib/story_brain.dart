@@ -37,12 +37,10 @@ class StoryBrain {
     return _storyData[0].storyTitle;
   }
 
-// #11
   String getChoice1() {
     return _storyData[0].choice1;
   }
 
-  // #12
   String getChoice2() {
     return _storyData[0].choice2;
   }
