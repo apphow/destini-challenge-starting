@@ -1,6 +1,8 @@
 import 'story.dart';
 
 class StoryBrain {
+  int storyNumber = 0;
+
   List<Story> _storyData = [
     Story(
         storyTitle:
